@@ -4,7 +4,7 @@ import GuarantyIcon from "../assets/guarantee.svg"
 import ShippingIcon from "../assets/shipping.svg"
 import SupportIcon from "../assets/customer-support.svg"
 
-const footerExtPages = ["/products", "/comparison", "/cart", "/checkout", "/contact", "/blog"]
+const footerExtPages = ["/products", "/cart", "/checkout", "/contact"]
 
 const FooterExtension = () => {
     const location = useLocation()
